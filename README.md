@@ -3,3 +3,5 @@ Creates an entirely randomized experience for League of Legends, including champ
 
 The project isn't up to date with League, it doesn't have the newest champions, or account for the updated rune system. This is an old project that I'm mostly uploading
 for posterity, and won't be updated.
+
+![In app screenshot](https://i.imgur.com/M15twS3.png)
